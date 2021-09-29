@@ -1,3 +1,4 @@
+#Question code  ADDNDIV
 import math
 for i in range(int(input())):
     a,b=map(int,input().split())
